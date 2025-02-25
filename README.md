@@ -11,7 +11,7 @@ Welcome to the **CA-SSLR Resource Hub**! This repository provides all the necess
 ## **Quick Links**
 - **ESPnet Branch**: [ESPnet Integration for CA-SSLR](https://github.com/neillu23/espnet/tree/ca-sslr)  
 - **S3PRL Branch**: [S3PRL Integration for CA-SSLR](https://github.com/neillu23/s3prl/tree/ca-sslr)  
-- **Pre-trained Models**: [Download Pre-trained Models](https://huggingface.co/espnet/casslr_mlsuperb_asrlid)
+- **Pre-trained Models**: [Download Pre-trained Models](https://huggingface.co/neillu/casslr_mlsuperb_asrlid)
 
 ---
 
